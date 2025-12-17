@@ -23,4 +23,4 @@
 ## 	Introductory Applied Machine Learning
 - Typical tasks for machine learning are the classification of data, automatic regression, and unsupervised model fitting.<br> 
 - Topics covered in this course include:
-> statistical learning methods, shrinkage regression, principle component analysis, decision tree learning, support vector machines, artificial neural network, k-means, k-nearest neighbor, and etc. 
+    statistical learning methods, shrinkage regression, principle component analysis, decision tree learning, support vector machines, artificial neural network, k-means, k-nearest neighbor, and etc. 
