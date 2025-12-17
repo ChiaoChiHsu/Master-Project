@@ -1,4 +1,8 @@
 # Master-Project
+## Computer Vision Practice with Deep Learning
+- This course will provide a pragmatic introduction to computer vision, with an aim to walk through milestone models and research papers in the literature.
+- This course will explore practical solutions from the latest literature for solving computer vision tasks with various data, label, and deployment constrains.
+
 ## Database processing and database management systems (DBMS)
 1. Acquire basic knowledge and concepts about databases and DBMS
 2. Obtain basic capabilities of programming for databases, and basic capabilities of operating a DBMS
@@ -17,5 +21,6 @@
 9. Feature description and extraction
 10. Image pattern classification
 ## 	Introductory Applied Machine Learning
-Typical tasks for machine learning are the classification of data, automatic regression, and unsupervised model fitting.<br> 
-Topics covered in this course include: statistical learning methods, shrinkage regression, principle component analysis, decision tree learning, support vector machines, artificial neural network, k-means, k-nearest neighbor, and etc. 
+- Typical tasks for machine learning are the classification of data, automatic regression, and unsupervised model fitting.<br> 
+- Topics covered in this course include:
+> statistical learning methods, shrinkage regression, principle component analysis, decision tree learning, support vector machines, artificial neural network, k-means, k-nearest neighbor, and etc. 
